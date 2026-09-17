@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://summerunbound.github.io</id>
+    <title>长夏无待</title>
+    <updated>2026-09-17T04:03:20.107Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://summerunbound.github.io"/>
+    <link rel="self" href="https://summerunbound.github.io/atom.xml"/>
+    <subtitle>长夏漫漫，我自无待</subtitle>
+    <logo>https://summerunbound.github.io/images/avatar.png</logo>
+    <icon>https://summerunbound.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2026, 长夏无待</rights>
+    <entry>
+        <title type="html"><![CDATA[五年后再用Gridea]]></title>
+        <id>https://summerunbound.github.io/post/gridea/</id>
+        <link href="https://summerunbound.github.io/post/gridea/">
+        </link>
+        <updated>2026-09-17T03:15:54.000Z</updated>
+        <content type="html"><![CDATA[<p>21年用过，当时就觉得主题太少了，我又是颜值党，试了下就没用了。</p>
+<p>昨天搜gridea搜到的是<a href="https://gridea.dev/">https://gridea.dev/</a>，还以为现在只有托管的这个了，注册了一个。</p>
+<p>今天再搜就找到原来的静态博客写作端了<a href="https://open.gridea.dev/">https://open.gridea.dev/</a>，还是很好用的，设置也很方便。</p>
+<p>要么再写点啥，其实我也知道不是工具的问题，只是我麻木了。</p>
+]]></content>
+    </entry>
+</feed>
